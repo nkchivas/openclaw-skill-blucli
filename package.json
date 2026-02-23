@@ -1,0 +1,14 @@
+{
+  "name": "blucli",
+  "version": "1.0.0",
+  "description": "BluOS CLI (blu) for discovery, playback, grouping, and volume.",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "created": "2026-02-23T11:46:00.729893",
+  "type": "system-skill",
+  "files": [
+    "SKILL.md"
+  ],
+  "file_count": 1,
+  "source": "OpenClaw Official"
+}
